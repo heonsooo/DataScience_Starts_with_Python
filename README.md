@@ -1,7 +1,7 @@
 # DataScience_Starts_with_Python
-[부스트코스] 파이썬으로 시작하는 데이터 사이언스 강의 클론입니다.
-url = https://www.boostcourse.org/ds112/joinLectures/28137
-
+[부스트코스] 파이썬으로 시작하는 데이터 사이언스 강의 클론입니다.   
+url = https://www.boostcourse.org/ds112/joinLectures/28137  
+  
 ## 목표
 1. 공공데이터를 통해 분석 steps 배우기
 2. 데이터 전처리 실습
